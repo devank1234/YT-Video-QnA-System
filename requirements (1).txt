@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain_community
+langchain_huggingface
+langchain-ollama
+faiss-cpu
+youtube-transcript-api
+sentence-transformers
+transformers
+huggingface-hub
